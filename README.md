@@ -1,2 +1,1 @@
-# cv
-The name of my pprogect
+<link rel="stylesheet" href="cv.html">
